@@ -1,4 +1,11 @@
-# 👨🏻‍💻  Frontend developer
+# About me
+### I'm 👨🏻‍💻 Frontend developer
+
+I want to write clear and structured code
+
+Study the latest methods in programming
+
+Learn new technologies
 
 ## Technology Stack
 > Tools, languages, and other things that I work with.
